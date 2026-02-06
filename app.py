@@ -1,6 +1,6 @@
 """
 Walmart Supply Chain Command Center — v2.0
-Premium Light-Mode Interactive Dashboard
+Interactive Dashboard
 """
 
 import streamlit as st
