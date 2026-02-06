@@ -1,4 +1,4 @@
-# Walmart Supply Chain Command Center — v2.0
+# Walmart Supply Chain Command Center 
 
 ## Quick Start
 
