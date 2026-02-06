@@ -1,0 +1,7 @@
+metric,value
+total_revenue_at_risk,281892047.03
+total_stockouts,2593.0
+critical_actions,2801.0
+total_transactions,5000.0
+stockout_rate,51.85999999999999
+avg_demand_gap,1.9544

@@ -1,0 +1,6 @@
+location,region,stockouts,stockout_rate,revenue_at_risk,avg_demand_gap,transactions,demand_shocks,common_weather
+"Chicago, IL",Inland,519,51.233958538993086,57394330.25,6.554787759131293,1013,0,Sunny
+"Dallas, TX",Inland,496,49.69939879759519,52558104.05,-9.198396793587174,998,0,Cloudy
+"Los Angeles, CA",Coastal,542,52.215799614643544,55678019.42,8.339113680154142,1038,0,Cloudy
+"Miami, FL",Coastal,489,50.72614107883817,61822554.98,6.553941908713693,964,0,Stormy
+"New York, NY",Coastal,547,55.42046605876393,54439038.33,-2.697061803444782,987,0,Sunny
